@@ -10,7 +10,7 @@ CREATE TABLE `users` (
 
 
 INSERT INTO `users` (`id`, `email`, `name`, `password`) VALUES
-(1, 'jm@test.com', 'Test User', '202cb962ac59075b964b07152d234b70'); 
+(1, 'test@test.com', 'Test User', '202cb962ac59075b964b07152d234b70'); 
 --password is 123
 
 --
